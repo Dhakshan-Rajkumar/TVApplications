@@ -1,0 +1,98 @@
+C:\Users\IT\AppData\Local\Temporary Projects\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\IT\AppData\Local\Temporary Projects\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\IT\AppData\Local\Temporary Projects\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\IT\AppData\Local\Temporary Projects\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\IT\AppData\Local\Temporary Projects\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\IT\AppData\Local\Temporary Projects\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\IT\AppData\Local\Temporary Projects\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\IT\AppData\Local\Temporary Projects\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\IT\AppData\Local\Temporary Projects\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\IT\AppData\Local\Temporary Projects\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\IT\AppData\Local\Temporary Projects\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\IT\AppData\Local\Temporary Projects\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\IT\AppData\Local\Temporary Projects\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\WpfApplication1\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\WpfApplication1\WpfApplication1\obj\Debug\UserControl1.baml
+D:\WpfApplication1\WpfApplication1\obj\Debug\UserControl1.g.cs
+D:\WpfApplication1\WpfApplication1\obj\Debug\TVApp.baml
+D:\WpfApplication1\WpfApplication1\obj\Debug\TVApp.g.cs
+D:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+D:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.application
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\D\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\D\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+D:\D\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
+D:\D\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\D\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\UserControl1.baml
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\TVApp.g.cs
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\UserControl1.g.cs
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\TVApp.baml
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+D:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.application
+E:\D\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\UserControl1.baml
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\UserControl1.g.cs
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\TVApp.g.cs
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\D\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+E:\D\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
+E:\D\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\D\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\TVApp.baml
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.application
+E:\D\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\UserControl1.baml
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\TVApp.g.cs
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\UserControl1.g.cs
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\TVApp.baml
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.application
+F:\LS Mills Ltd\TV App\wetransfer_wpfapplication1_2022-06-29_1102\WpfApplication1\WpfApplication1\bin\Debug\TVApplications.exe.config
